@@ -15,13 +15,6 @@ Jestem programistą, który lubi układać puzzle z kodu. Buduję aplikacje, kt�
 
 ---
 
-### 📊 Statystyki GitHub
-
-![Twoje Statystyki](https://github-readme-stats.vercel.app/api?username=dominikzielewski&show_icons=true&theme=radical)
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikzielewski&layout=compact&theme=radical)
-
----
-
 ### 📫 Kontakt
 - **LinkedIn:** [(https://www.linkedin.com/in/dominik-zielewski-302ba530b/)]
 - **Email:** [zielewskidominik@icloud.com]
