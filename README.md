@@ -16,5 +16,5 @@ Jestem programistą, który lubi układać puzzle z kodu. Buduję aplikacje, kt�
 ---
 
 ### 📫 Kontakt
-- **LinkedIn:** [(https://www.linkedin.com/in/dominik-zielewski-302ba530b/)]
-- **Email:** [zielewskidominik@icloud.com]
+- **LinkedIn:** https://www.linkedin.com/in/dominik-zielewski-302ba530b/
+- **Email:** zielewskidominik@icloud.com
